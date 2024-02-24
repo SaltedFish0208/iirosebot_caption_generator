@@ -1,7 +1,7 @@
 ## 简介
 - 插件名称：iirose_caption_generator
 - 插件作者：SaltedFish0208
-- 插件简介：生成一段有趣的文案
+- 插件简介：适用于iirosebot的逆天文案生成器插件
 
 ## 依赖库
 | 库名     | 版本     |
